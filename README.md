@@ -27,5 +27,7 @@ This project is a simple mobile robot designed to follow a light source using tw
 ![xxixy_WhatsApp Image 2024-05-23 at 1 00 51 PM](https://github.com/ahmed3ab3al/graduation/assets/92050638/0dbc2a9b-d3db-483f-b2bb-208652dad417)
 
 ## **Test**
-https://github.com/ahmed3ab3al/graduation/assets/92050638/c185e5c7-7c90-45b6-95fe-f9a0ebf4b3b6
+https://github.com/ahmed3ab3al/graduation/assets/92050638/4b1f1576-3545-44ce-9323-1c6bc275f71e
+
+
 
