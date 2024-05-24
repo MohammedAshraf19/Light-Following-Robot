@@ -7,6 +7,7 @@ This project is a simple mobile robot designed to follow a light source using tw
 - **Modular Design**: Easily expandable with additional sensors and functionalities.
 
 ## **Components**
+![components](https://github.com/ahmed3ab3al/graduation/assets/92050638/b7ec3a45-f27d-4a34-adb4-72dfe6638b83)
 
 - **Chassis**: Base frame for the robot.
 - **Motors**: DC motors for movement.
